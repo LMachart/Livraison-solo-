@@ -18,3 +18,14 @@ height: 180px;
     font-weight: bold;
     float: left
 }
+.Titre
+{
+text-align: center;
+clear: both;
+}
+.Info
+{
+    text-align: center;
+    font-size: 22px;
+    
+}
