@@ -1,0 +1,20 @@
+body
+{
+    background-image: url(fond.jpeg);
+}
+img
+{
+    float: right;
+    width: 180px;
+height: 180px;
+}
+.présentation
+{
+    float: right;
+    font-weight: bold;
+}
+.Contact
+{
+    font-weight: bold;
+    float: left
+}
