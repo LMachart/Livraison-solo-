@@ -6,7 +6,7 @@ body
 {
     background-image: url(fond.jpeg);
 }
-img
+.photo
 {
     float: right;
     width: 150px;
@@ -38,4 +38,16 @@ font-size: 28px;
 {
    border: 2px solid black;
    margin-top: 10px;
+}
+.réseaux
+{
+    float: left;
+    width: 150px;
+height: 150px;
+}
+img
+{
+    width: 150px;
+height: 150px;
+float: right;
 }
